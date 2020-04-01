@@ -4,7 +4,7 @@
             javax.xml.bind/jaxb-api     {:mvn/version "2.2.12"}
             com.taoensso/timbre         {:mvn/version "4.10.0"}
             manifold                    {:git/url "git@github.com:yummly/manifold.git"
-                                         :sha "6ce004436b0c802592124d5d000be82a280d9391"}
+                                         :sha "8baf9babce84e567e66b5597ab4143ec80423e20"}
             ;; aws
             com.cognitect.aws/api       {:mvn/version "0.8.305"}
             ;; aws sdk
